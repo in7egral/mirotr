@@ -1,4 +1,6 @@
+#summary A short overview
 #labels Featured,Phase-Implementation
+
 OTR allows you to have private conversations over IM by providing: 
 
 - Encryption
