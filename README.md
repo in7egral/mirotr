@@ -12,8 +12,8 @@ No! The project is not dead. We are working on it, please stay tuned for the nex
 
 <h2>FAQ</h2>
 <ul>
-<a href="https://code.google.com/p/mirotr/wiki/MirOTR">Why was ANSI support removed?</a></li>
-<a href="https://code.google.com/p/mirotr/wiki/Bugreport">How can I report bugs?</a></li>
+<li><a href="https://code.google.com/p/mirotr/wiki/MirOTR">Why was ANSI support removed?</a></li>
+<li><a href="https://code.google.com/p/mirotr/wiki/Bugreport">How can I report bugs?</a></li>
 </ul>
 
 <h2>Useful Links</h2>
