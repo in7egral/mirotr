@@ -17,6 +17,7 @@ void starttag_cb (void *cbdata, ekhtml_string_t *tag, ekhtml_attr_t *attrs) {
 							data->stack.push(strncpy((char*)mir_calloc(attr->val.len+1), attr->val.str, attr->val.len));
 							break;
 						}
+						attr = attr->next;
 					}
 					}break;
 				case 'i':
