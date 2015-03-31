@@ -1,6 +1,3 @@
-# mirotr
-Automatically exported from code.google.com/p/mirotr
-
 <h1>MirOTR - OTR for Miranda IM!</h1>
 <h2>Description</h2>
 MirOTR is a plugin for Miranda IM only that offers OTR (Off-the-Record) encryption plugin support for the most used protocols like e.g. ICQ, Facebook. The main source was taken from the outdated and no longer supported OTR plugin (thanks sje for that!).
@@ -18,6 +15,12 @@ Why was ANSI support removed?
 How can I report bugs?
 
 <h2>Useful Links</h2>
-<a href="http://forum.miranda-im.de/index.php?topic=13575.0">German discussion</a>
-<a href=http://miranda-im.de/mediawiki/index.php?title=Plugin:MirOTR"">German wiki</a>
-<a href="http://www.cypherpunks.ca/otr/">OTR projectpage</a>
+<ul>
+<il><a href="http://forum.miranda-im.de/index.php?topic=13575.0">German discussion</a></il>
+<il><a href=http://miranda-im.de/mediawiki/index.php?title=Plugin:MirOTR"">German wiki</a></il>
+<il><a href="http://www.cypherpunks.ca/otr/">OTR projectpage</a></il>
+</ul>
+
+
+# mirotr
+Automatically exported from code.google.com/p/mirotr
