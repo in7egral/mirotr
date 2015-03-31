@@ -16,9 +16,9 @@ How can I report bugs?
 
 <h2>Useful Links</h2>
 <ul>
-<il><a href="http://forum.miranda-im.de/index.php?topic=13575.0">German discussion</a></il>
-<il><a href=http://miranda-im.de/mediawiki/index.php?title=Plugin:MirOTR"">German wiki</a></il>
-<il><a href="http://www.cypherpunks.ca/otr/">OTR projectpage</a></il>
+<li><a href="http://forum.miranda-im.de/index.php?topic=13575.0">German discussion</a></li>
+<li><a href=http://miranda-im.de/mediawiki/index.php?title=Plugin:MirOTR"">German wiki</a></li>
+<li><a href="http://www.cypherpunks.ca/otr/">OTR projectpage</a></li>
 </ul>
 
 
